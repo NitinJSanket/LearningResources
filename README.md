@@ -8,3 +8,4 @@ Good Learning Resources and Useful Links
 - [$25 Raspberry Pi add-on gets you started with edge computing AI](https://www.techrepublic.com/article/25-raspberry-pi-add-on-gets-you-started-with-edge-computing-ai/)
 - [SparkFun Edge Development Board - Apollo3 Blue](https://www.sparkfun.com/products/15170)
 - [JeVois Smart Machine Vision Camera](https://www.sparkfun.com/products/15137)
+- [Deep Feature Consistent Deep Image Transformations: Downscaling, Decolorization and HDR Tone Mapping](https://arxiv.org/pdf/1707.09482.pdf)
