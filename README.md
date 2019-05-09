@@ -7,3 +7,4 @@ Good Learning Resources and Useful Links
 - [Merging TensorFlow Lite and μTensor](https://blog.hackster.io/merging-tensorflow-lite-and-%CE%BCtensor-c7abfa38208f)
 - [$25 Raspberry Pi add-on gets you started with edge computing AI](https://www.techrepublic.com/article/25-raspberry-pi-add-on-gets-you-started-with-edge-computing-ai/)
 - [SparkFun Edge Development Board - Apollo3 Blue](https://www.sparkfun.com/products/15170)
+- [JeVois Smart Machine Vision Camera](https://www.sparkfun.com/products/15137)
