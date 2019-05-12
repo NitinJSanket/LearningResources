@@ -9,3 +9,4 @@ Good Learning Resources and Useful Links
 - [SparkFun Edge Development Board - Apollo3 Blue](https://www.sparkfun.com/products/15170)
 - [JeVois Smart Machine Vision Camera](https://www.sparkfun.com/products/15137)
 - [Deep Feature Consistent Deep Image Transformations: Downscaling, Decolorization and HDR Tone Mapping](https://arxiv.org/pdf/1707.09482.pdf)
+- [Learn Stereo, Infer Mono: Siamese Networks for Self-Supervised, Monocular, Depth Estimation](https://arxiv.org/pdf/1905.00401.pdf)
