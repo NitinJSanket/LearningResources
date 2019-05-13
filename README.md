@@ -10,3 +10,5 @@ Good Learning Resources and Useful Links
 - [JeVois Smart Machine Vision Camera](https://www.sparkfun.com/products/15137)
 - [Deep Feature Consistent Deep Image Transformations: Downscaling, Decolorization and HDR Tone Mapping](https://arxiv.org/pdf/1707.09482.pdf)
 - [Learn Stereo, Infer Mono: Siamese Networks for Self-Supervised, Monocular, Depth Estimation](https://arxiv.org/pdf/1905.00401.pdf)
+- [BinaryNet TensorFlow](https://github.com/uranusx86/BinaryNet-on-tensorflow)
+- [The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks](https://arxiv.org/pdf/1803.03635.pdf)
