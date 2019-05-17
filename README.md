@@ -12,3 +12,4 @@ Good Learning Resources and Useful Links
 - [Learn Stereo, Infer Mono: Siamese Networks for Self-Supervised, Monocular, Depth Estimation](https://arxiv.org/pdf/1905.00401.pdf)
 - [BinaryNet TensorFlow](https://github.com/uranusx86/BinaryNet-on-tensorflow)
 - [The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks](https://arxiv.org/pdf/1803.03635.pdf)
+- [Self-Supervised Learning of Depth and Camera Motion from 360 Videos](https://arxiv.org/pdf/1811.05304.pdf)
