@@ -13,3 +13,4 @@ Good Learning Resources and Useful Links
 - [BinaryNet TensorFlow](https://github.com/uranusx86/BinaryNet-on-tensorflow)
 - [The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks](https://arxiv.org/pdf/1803.03635.pdf)
 - [Self-Supervised Learning of Depth and Camera Motion from 360 Videos](https://arxiv.org/pdf/1811.05304.pdf)
+- [Vision-Aided Absolute Trajectory Estimation Using an Unsupervised Deep Network with Online Error Correction](https://arxiv.org/pdf/1803.05850.pdf)
