@@ -15,3 +15,4 @@ Good Learning Resources and Useful Links
 - [Self-Supervised Learning of Depth and Camera Motion from 360 Videos](https://arxiv.org/pdf/1811.05304.pdf)
 - [Vision-Aided Absolute Trajectory Estimation Using an Unsupervised Deep Network with Online Error Correction](https://arxiv.org/pdf/1803.05850.pdf)
 - [Learning to Fuse: A Deep Learning Approach to Visual-Inertial Camera Pose Estimation](http://av.dfki.de/~pagani/papers/Rambach2016_ISMAR.pdf)
+- [Adding Border in Premier](https://forums.creativecow.net/docs/forums/post.php?forumid=3&postid=936261&univpostid=936261&pview=t)
